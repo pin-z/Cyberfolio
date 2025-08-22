@@ -2313,12 +2313,12 @@ body {
     Mobile Nav
 ==============
 */
-.old {
+
   /*==============
             Overlay            
   ================== */
   /*  Navigation Menu */
-}
+
 .old .navbar-collapse {
   position: fixed;
   top: 0;
